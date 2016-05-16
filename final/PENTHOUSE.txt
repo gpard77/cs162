@@ -1,0 +1,8 @@
+Welcome to the KITTY PENTHOUSE:
+This kitty penthouse is where Gumbo sleeps most nights.  It’s a bare area in the roof that hangs over the porch.  The accommodations are not pretty, but many of the strays in the area squeeze in to get protection from the weather—especially in winter.  
+moveOn2;
+Gumbo is jolted awake; two angry eyes stare back at him.  A vicious cat they call Stabby has been a long time tormentor of Gumbo.  Every time Gumbo tries to get a snack, you can count on Stabby chasing him away.  Legend says that Stabby used to be a domesticated feline, all proper and stuff…  But a toddler changed him with a pair of tweezers and the subtraction of a few whiskers—literally changed.  He’s been vicious ever since.
+Move on to speak with Stabby—
+moveOn2;
+“Gumbo I see you haven’t learned.  You dare sleep where I sleep and I consider that a sign of disrespect.  I’ll give you a choice…  You can go back to sleep and whatever happens, happens or you can scram now and sleep better…  That is if you consider sleeping in your own filth better.    
+
