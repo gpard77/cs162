@@ -1,0 +1,56 @@
+Attack Roll
+4
+Defend Roll
+2
+Attack Roll
+10
+Defend Roll
+10
+Attack Roll
+4
+Defend Roll
+4
+Attack Roll
+4
+Defend Roll
+6
+Attack Roll
+6
+Defend Roll
+6
+Attack Roll
+6
+Defend Roll
+8
+Attack Roll
+2
+Defend Roll
+2
+Attack Roll
+6
+Defend Roll
+4
+Attack Roll
+4
+Defend Roll
+6
+Attack Roll
+4
+Defend Roll
+6
+Attack Roll
+4
+Defend Roll
+4
+Attack Roll
+2
+Defend Roll
+12
+Attack Roll
+12
+Defend Roll
+2
+Attack Roll
+12
+Defend Roll
+2
